@@ -1,154 +1,341 @@
-# Hi, I'm Madiha Ashraf
+# 👋 Welcome to My GitHub!
 
-### Aspiring AI Engineer | Software Engineering Student | Full Stack Web Developer
+### AI Enthusiast | Software Engineering Student | Full-Stack Web Developer | UI/UX Designer
 
-I am a Software Engineering student at Air University with a strong interest in
-Artificial Intelligence, Machine Learning, and Full Stack Web Development.
+I’m Madiha Ashraf, a Software Engineering student at Air University with an
+interest in Artificial Intelligence, Machine Learning, Full-Stack Development,
+and UI/UX Design.
 
-I enjoy building practical software and AI-powered applications while developing
-my skills in machine learning, computer vision, NLP, web development, and UI/UX design.
-I also have hands-on professional experience through my Full Stack Web Development internship.
-
----
-
-## About Me
-
-- Software Engineering student at Air University
-- Interested in Artificial Intelligence and Machine Learning
-- Hands-on experience in Full Stack Web Development
-- Building AI/ML projects using Python
-- Exploring Computer Vision and Natural Language Processing
-- Experienced in UI/UX Design and Figma
-- Practicing software development through academic and personal projects
+I enjoy building practical projects that combine software development with
+AI technologies, particularly in Computer Vision and Natural Language
+Processing. Alongside my academic projects, I’m gaining hands-on experience
+in Full-Stack Web Development through my internship at iVector Academy.
 
 ---
 
-## Experience
+## 🌟 Core Expertise:
 
-### Full Stack Web Development Intern — iVector Academy
+- **AI & Machine Learning:**  
+  Working with Python for Machine Learning and AI projects, with practical
+  experience in Computer Vision and Natural Language Processing. Familiar
+  with Pandas, Scikit-learn, OpenCV, MediaPipe, DeepFace, Hugging Face
+  Transformers, and spaCy.
 
-- Worked on front-end and back-end web development tasks
-- Contributed to real-world web application development
-- Worked with reusable components and modern web technologies
-- Practiced debugging, problem-solving, and Git/GitHub workflows
-- Migrated a client website from WordPress to Next.js
-- Gained experience working in a professional development environment
+- **Full-Stack Web Development:**  
+  Developing responsive web applications using HTML5, CSS3, JavaScript,
+  React, and Next.js. Experience with responsive layouts, Flexbox, Grid,
+  reusable components, and state management.
+
+- **Programming & Software Development:**  
+  Working with Python, C++, JavaScript, HTML, and CSS while strengthening
+  programming fundamentals, problem-solving, and software development skills.
+
+- **Computer Vision & Intelligent Applications:**  
+  Building computer vision applications using OpenCV, MediaPipe, and
+  DeepFace, including real-time emotion recognition, facial recognition,
+  gesture-based interaction, and touchless human-computer interfaces.
+
+- **Natural Language Processing:**  
+  Developing NLP-based applications involving text summarization and
+  Named Entity Recognition using Python, Hugging Face Transformers, and spaCy.
+
+- **UI/UX Design & Prototyping:**  
+  Designing user interfaces and digital product experiences using Figma,
+  including wireframes, mockups, user flows, interactive prototypes,
+  design systems, layout, typography, and usability reviews.
+
+- **Mobile App Development:**  
+  Exploring mobile application development and working with Android Studio
+  and Flutter as part of my software development learning.
+
+- **Development Tools & Workflow:**  
+  Working with Git, GitHub, VS Code, PyCharm, Postman, Figma, and Android
+  Studio for development, testing, version control, and design.
 
 ---
 
-## Technical Skills
+## 💻 Technologies & Tools
 
-### Programming Languages
+### Languages
 `Python` `C++` `JavaScript` `HTML5` `CSS3`
 
 ### Web Development
-`Next.js` `React.js` `JavaScript` `HTML5` `CSS3` `Responsive Design`
+`React` `Next.js` `HTML5` `CSS3` `JavaScript`
+`Flexbox` `CSS Grid` `Responsive Design` `State Management`
 
 ### AI & Machine Learning
 `Machine Learning` `Computer Vision` `NLP`
-`OpenCV` `MediaPipe` `DeepFace`
-`Pandas` `Scikit-learn`
+`Pandas` `Scikit-learn` `OpenCV` `MediaPipe`
+`DeepFace` `Hugging Face Transformers` `spaCy`
 
-### UI/UX Design
-`Figma` `Wireframing` `Prototyping`
-`Design Systems` `Usability Review`
+### UI/UX & Design
+`Figma` `Wireframing` `Mockups` `Prototyping`
+`Design Systems` `User Flows` `Usability Review`
+`Layout` `Typography`
 
-### Tools
-`Git` `GitHub` `VS Code` `PyCharm` `Postman` `Android Studio`
-
----
-
-## Featured Projects
-
-### InsightScan AI
-AI-powered document analysis project focused on text summarization
-and Named Entity Recognition.
-
-**Technologies:** Python, NLP, Hugging Face Transformers, spaCy, Figma
-
-### AirTouch
-AI-powered touchless computer interface using hand gesture recognition
-and MediaPipe landmark tracking.
-
-**Technologies:** Python, OpenCV, MediaPipe
-
-### Real-Time Emotion AI Assistant
-Real-time emotion recognition application using facial expression analysis
-with voice feedback.
-
-**Technologies:** Python, OpenCV, DeepFace, pyttsx3
-
-### Machine Learning Projects
-A collection of Machine Learning notebooks and practical implementations
-developed while learning and practicing ML concepts.
-
-**Technologies:** Python, Pandas, Scikit-learn, Jupyter Notebook
-
-### Python Practice Projects
-A collection of Python projects developed to strengthen programming
-fundamentals, problem-solving, and implementation skills.
+### Development Tools
+`Git` `GitHub` `VS Code` `PyCharm`
+`Postman` `Android Studio` `draw.io`
 
 ---
 
-## Other Projects
+## 🚀 Featured Projects
+
+### InsightScan AI — Smart Document Analyzer
+
+An AI-powered document analysis project focused on extracting and
+summarizing important information from documents.
+
+- Designed the complete UI prototype in Figma
+- Connected the interface with a Python-based NLP backend
+- Implemented Named Entity Recognition
+- Implemented text summarization to highlight important content
+- Focused on reducing reading time and improving information accessibility
+
+**Technologies:**  
+`Python` `NLP` `Hugging Face Transformers` `spaCy` `Figma` `Flask`
+
+---
+
+### AirTouch — AI-Powered Virtual Interface
+
+A touchless Human-Computer Interaction project that allows users to
+interact with a computer through hand gestures.
+
+- Used MediaPipe's 21-point hand landmark tracking
+- Implemented hand gesture recognition
+- Enabled cursor movement through hand gestures
+- Implemented virtual clicking
+- Added system volume control through gestures
+- Explored touchless interaction using Computer Vision
+
+**Technologies:**  
+`Python` `OpenCV` `MediaPipe`
+
+---
+
+### AI Emotion-Aware Assistant
+
+A real-time AI application that analyzes facial expressions and detects
+human emotions through webcam input.
+
+- Captures real-time video from a webcam
+- Detects and analyzes facial expressions
+- Uses DeepFace for emotion recognition
+- Provides voice feedback using text-to-speech
+- Combines Computer Vision with an interactive AI assistant
+
+**Technologies:**  
+`Python` `OpenCV` `DeepFace` `pyttsx3`
+
+---
+
+### Smart Attendance System
+
+An AI-based facial recognition attendance system designed to automate
+attendance management.
+
+- Facial recognition for attendance tracking
+- Liveness detection
+- Multi-face recognition
+- Attendance management dashboard
+- SQLite-based data storage
+
+**Technologies:**  
+`Python` `OpenCV` `DeepFace` `SQLite`
+
+---
+
+### Bloom — Flower E-Commerce Website
+
+A responsive flower e-commerce website developed using front-end web
+technologies.
+
+- Built a responsive website using semantic HTML5
+- Used modern CSS3 with Flexbox and Grid
+- Implemented product listings and filtering
+- Added shopping cart functionality
+- Implemented checkout flow
+- Added interactive JavaScript components
+- Created landing page sections with animations and hover effects
+
+**Technologies:**  
+`HTML5` `CSS3` `JavaScript` `Flexbox` `CSS Grid`
+
+---
+
+### UNO Card Game — Browser-Based Web App
+
+An interactive browser-based UNO card game developed with complete
+game logic and an animated user interface.
+
+- Implemented complete UNO game logic
+- Added special cards including Skip, Reverse, Draw Two, and Wild
+- Built an animated game interface
+- Added card-dealing animations
+- Implemented turn indicators
+- Added an AI opponent
+- Added a persistent score tracker
+
+**Technologies:**  
+`HTML5` `CSS3` `JavaScript`
+
+---
+
+### Headache Tracker App — UI/UX Prototype
+
+A mobile UI/UX prototype designed in Figma for tracking and visualizing
+headache-related information.
+
+- Designed complete user flows
+- Created information architecture
+- Developed wireframes and high-fidelity prototypes
+- Built a reusable component library
+- Designed symptom logging screens
+- Created pain intensity tracking
+- Designed a data dashboard
+- Applied mobile-first UX and accessibility principles
+
+**Technologies:**  
+`Figma` `Mobile UX Design` `UI/UX Design`
+
+---
+
+## 🐍 Python Practice
+
+I maintain a collection of Python exercises and mini-projects developed
+while strengthening programming fundamentals, logical thinking,
+problem-solving, and implementation skills.
+
+**Repository:**  
+[Python Practice Projects](https://github.com/madihaashraf21/python-practice-projects)
+
+---
+
+## 📚 Academic & Technical Projects
 
 ### Computer Architecture & Python Projects
-Academic projects including MIPS Assembly and Python-based implementations.
 
-### Flowery Website
-Responsive front-end website developed using HTML, CSS, and JavaScript.
+Academic implementations involving low-level programming and Python,
+including a Binary-to-ASCII utility developed in MIPS Assembly and a
+Python-based Text-to-Speech module.
+
+**Technologies:**  
+`MIPS Assembly` `Python` `Text-to-Speech`
 
 ---
 
-## UI/UX & Product Design
+## 🎨 UI/UX & Product Design
 
-Experienced in creating:
+Alongside development, I work on UI/UX design and product prototyping
+using Figma.
+
+My design work includes:
 
 - User flows
+- Information architecture
 - Wireframes
+- Mockups
 - High-fidelity prototypes
 - Interactive prototypes
+- Component libraries
 - Design systems
-- Usability-focused interfaces
+- Layout and typography
+- Usability reviews
+- Mobile-first design
+- Developer handoff
 
 ---
 
-## Certifications & Learning
+## 💼 Professional Experience
 
-- Machine Learning Specialization — DeepLearning.AI
-- ACT AI: Awareness, Competency & Tools Training
-- Introduction to Mobile Development — Meta
-- Flutter App Development
-- Generative AI Literacy
-- HTML: How to Build a Website — University of London
+### Full-Stack Web Development Intern — iVector Academy
+
+**June 2026 – Present**
+
+Currently gaining hands-on experience in Full-Stack Web Development
+while working on real-world web development tasks.
+
+- Working across front-end and back-end development
+- Contributing to real-world web application development
+- Applying practical coding, debugging, and problem-solving skills
+- Working with modern web technologies and reusable components
+- Using Git and GitHub as part of the development workflow
+- Migrated a client website from WordPress to Next.js
+- Rebuilt website pages as reusable React components
+- Worked toward improving performance, SEO, and long-term maintainability
 
 ---
 
-## Currently Learning
+## 🎓 Education
 
-- Artificial Intelligence and Machine Learning
-- Full Stack Web Development
+### Air University
+
+**Bachelor of Science in Software Engineering**  
+2024 – Present
+
+Relevant coursework includes:
+
+`Information & Communication Technologies`
+`Programming Fundamentals`
+`Object-Oriented Programming`
+`Data Structures & Algorithms`
+`Artificial Intelligence`
+`Machine Learning`
+`UI/UX Design`
+
+---
+
+## 📜 Certifications & Learning
+
+- **Machine Learning Specialization** — DeepLearning.AI
+- **ACT AI: Awareness, Competency & Tools Training** — AI SkillBridge,
+  Prime Minister's Youth Programme
+- **Introduction to Mobile Development** — Meta, Coursera
+- **Flutter App Development** — Udemy
+- **Generative AI Literacy** — Simplilearn SkillUp
+- **HTML: How to Build a Website** — University of London, Coursera
+
+---
+
+## 🔭 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Full-Stack Web Development
 - Next.js and React
 - Computer Vision
 - Natural Language Processing
 - Mobile App Development
+- Software Engineering Practices
 
 ---
 
-## Career Interests
+## 🎯 Areas of Interest
 
-- AI Engineering
+- Artificial Intelligence
 - Machine Learning
-- Full Stack Development
-- AI-powered Applications
+- AI Engineering
 - Computer Vision
 - Natural Language Processing
+- Full-Stack Development
+- AI-powered Applications
+- UI/UX Design
 - Software Engineering
 
 ---
 
-## Connect
+## 🤝 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/madihaashraf) ·
-[GitHub](https://github.com/madihaashraf21) ·
-[madihaashraf0808@gmail.com](mailto:madihaashraf0808@gmail.com)
+I’m always interested in learning, collaborating on projects, and
+exploring opportunities related to software development and AI.
+
+**LinkedIn:** [Madiha Ashraf](https://www.linkedin.com/in/madihaashraf)
+
+**GitHub:** [@madihaashraf21](https://github.com/madihaashraf21)
+
+**Email:** [madihaashraf0808@gmail.com](mailto:madihaashraf0808@gmail.com)
+
+---
+
+⭐ Feel free to explore my repositories and projects.
