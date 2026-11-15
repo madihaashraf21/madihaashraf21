@@ -214,7 +214,7 @@ My design work includes:
 
 ### Full-Stack Web Development Intern — iVector Academy
 
-**June 2026 – Present**
+**June 2026 – September 2026**
 
 Currently gaining hands-on experience in Full-Stack Web Development while working on real-world web development tasks.
 
